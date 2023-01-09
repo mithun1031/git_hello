@@ -1,4 +1,4 @@
-a= int(input("enter the number"))
-b=int(input("enter the second number"))
+a=float(input("enter the number"))
+b=float(input("enter the second number"))
 sum=a+b
 print(f"sum is {sum}")
